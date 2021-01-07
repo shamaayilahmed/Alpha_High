@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91ff23d7.chunk.css",
+    "main.js": "/static/js/main.6edaaa4e.chunk.js",
+    "main.js.map": "/static/js/main.6edaaa4e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a166fe12.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a166fe12.js.map",
+    "static/js/2.444fce51.chunk.js": "/static/js/2.444fce51.chunk.js",
+    "static/js/2.444fce51.chunk.js.map": "/static/js/2.444fce51.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.91ff23d7.chunk.css.map": "/static/css/main.91ff23d7.chunk.css.map",
+    "static/js/2.444fce51.chunk.js.LICENSE.txt": "/static/js/2.444fce51.chunk.js.LICENSE.txt",
+    "static/media/ahlogo.c0733dc5.png": "/static/media/ahlogo.c0733dc5.png",
+    "static/media/albany-capture-1sejdUIU3sw-unsplash.ffe62f74.jpg": "/static/media/albany-capture-1sejdUIU3sw-unsplash.ffe62f74.jpg",
+    "static/media/logo.f3a0f1cf.svg": "/static/media/logo.f3a0f1cf.svg",
+    "static/media/neonbrand-zFSo6bnZJTw-unsplash.85d37b8a.jpg": "/static/media/neonbrand-zFSo6bnZJTw-unsplash.85d37b8a.jpg",
+    "static/media/ousa-chea-gKUC4TMhOiY-unsplash.80eef7b3.jpg": "/static/media/ousa-chea-gKUC4TMhOiY-unsplash.80eef7b3.jpg",
+    "static/media/vasily-koloda-8CqDvPuo_kI-unsplash.3201ff90.jpg": "/static/media/vasily-koloda-8CqDvPuo_kI-unsplash.3201ff90.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a166fe12.js",
+    "static/js/2.444fce51.chunk.js",
+    "static/css/main.91ff23d7.chunk.css",
+    "static/js/main.6edaaa4e.chunk.js"
+  ]
+}
